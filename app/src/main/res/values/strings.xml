@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Edunomics Task</string>
+    <string name="cor">Slide to select the Coefficient of Restitution</string>
+    <string name="h">Enter height \'H\' :</string>
+</resources>
